@@ -1,0 +1,80 @@
+# OpenGL Flag & Logo Rendering Project
+
+## Group Members
+Name                id
+1 neima berihun      44029
+2 hayat getahun       43994
+3 adebabay semegew
+4 sendeq ngusie
+5 yosef endalemaw 
+
+## Project Description
+This project was developed using OpenGL and GLUT in C++.
+
+The project renders:
+- Pepsi Logo
+- European Union (EU) Flag
+
+The project demonstrates computer graphics concepts such as:
+- Basic primitives
+- RGB color handling
+- 2D transformations
+- Animation
+
+---
+
+## Features
+- Points
+- Lines
+- Polygons
+- RGB Colors
+- Translation
+- Rotation
+- Scaling
+- Animation (Bonus Feature)
+
+---
+
+## Technologies Used
+- C++
+- OpenGL
+- GLUT
+
+---
+
+## How to Run
+1. Open the project in CodeBlocks or Visual Studio
+2. Build the project
+3. Run the executable
+
+---
+
+## Transformations Used
+
+### Translation
+Used to move the logo position.
+
+### Rotation
+Used to rotate the Pepsi logo.
+
+### Scaling
+Used to resize the logo.
+
+---
+
+## Bonus Feature
+Animation was implemented using timer functions to continuously rotate the Pepsi logo.
+
+---
+
+## Challenges Faced
+- Drawing smooth curves
+- Correct star positioning
+- Applying transformations correctly
+
+---
+
+## Project Output
+The program displays:
+- Animated Pepsi Logo
+- European Union Flag
